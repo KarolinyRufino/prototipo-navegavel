@@ -41,15 +41,15 @@
   <h2>Como Visualizar o Protótipo:</h2>
   <ul>
     <li>
-      <a target="_blank" href="https://www.figma.com/file/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=0-1&mode=design&t=pMUByNPxw9fNVrxY-0" > Wireframe <a>
+      <a href="https://www.figma.com/file/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=0-1&mode=design&t=pMUByNPxw9fNVrxY-0" target="_blank"> Wireframe <a>
         - Você precisará de uma conta no Figma para visualizar o protótipo.
     </li>
     <li>
-      <a target="_blank" href="https://www.figma.com/file/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=28-12&mode=design&t=hLrdwRwmz1AFFMnJ-0"> Protótipo </a>
+      <a href="https://www.figma.com/file/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=28-12&mode=design&t=hLrdwRwmz1AFFMnJ-0" target="_blank"> Protótipo </a>
       - Você precisará de uma conta no Figma para visualizar o protótipo.
     </li>
     <li>
-      <a target="_blank" href="https://www.figma.com/proto/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=28-135&t=cuqlDLxdVGRpiUro-1&scaling=scale-down&page-id=28%3A12">Explorar</a> 
+      <a href="https://www.figma.com/proto/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=28-135&t=cuqlDLxdVGRpiUro-1&scaling=scale-down&page-id=28%3A12" target="_blank">Explorar</a> 
       - Navegue pelas telas do protótipo para ter uma ideia da experiência do usuário.
     </li>
   </ul>
