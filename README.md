@@ -49,7 +49,7 @@
       - Você precisará de uma conta no Figma para visualizar o protótipo.
     </li>
     <li>
-      <a href="https://www.figma.com/proto/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=28-135&t=cuqlDLxdVGRpiUro-1&scaling=scale-down&page-id=28%3A12" target="_blank">Explorar</a> 
+      <a href="https://www.figma.com/proto/RN7ETeTwDVd7rb3dr6sDat/Aula-01?type=design&node-id=28-243&t=pMUByNPxw9fNVrxY-0&scaling=scale-down&page-id=28%3A12&starting-point-node-id=28%3A243" target="_blank">Explorar</a> 
       - Navegue pelas telas do protótipo para ter uma ideia da experiência do usuário.
     </li>
   </ul>
