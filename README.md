@@ -1,4 +1,8 @@
 <h1>Projeto: Resenha de Livros - Protótipo Figma</h1>
+<h6>
+    Projeto proposto no último desafio do curso Formação UX Designer - DIO.
+</h6>
+<br>
 
 <div>
   <h2>Descrição:</h2>
@@ -59,9 +63,32 @@
   <p>
     Este é apenas um protótipo inicial do aplicativo. Se você tem sugestões para melhorias ou gostaria de contribuir para o desenvolvimento, sinta-se à vontade para abrir problemas ou         enviar pull requests neste repositório.
   </p>
+  <br>
+
+  <h2>Imagens do projeto:</h2>
+  <h6>Mas não deixem de verificar os links acima 😊</h6>
+
+  <div align="center">
+    <p>Design System:</p>
+    <img src="/imagens/design-system.jpg" alt="design system do app de resenhas sobre livros">
+    <br><br>
+
+  <p>Wireframe:</p>
+    <img src="/imagens/wireframe.jpg" alt="wireframe do app de resenhas sobre livros">
+     <br><br>
+      
+  <p>Protótipo:</p>
+    <img src="/imagens/prototipo.jpg" alt="protótipo do app de resenhas sobre livros">
+  </div>
   
   <br>
   <p>
     ❕ <b>Nota:</b> Este protótipo é apenas uma representação visual do aplicativo e não possui funcionalidades interativas.
+  </p>
+
+<br>
+<br>
+  <p align="center">
+    Criado com 💜 por Karoliny 
   </p>
 </div>
